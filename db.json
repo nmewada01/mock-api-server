@@ -11,6 +11,12 @@
       "name": "rohit",
       "age": 20,
       "email": "rohit@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "neha",
+      "age": 20,
+      "email": "neha@gmail.com"
     }
   ]
 }
