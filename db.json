@@ -1,22 +1,14 @@
 {
-  "user": [
+  "books": [
     {
-      "id": 1,
-      "name": "naresh",
-      "age": 23,
-      "email": "naresh@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "rohit",
-      "age": 20,
-      "email": "rohit@gmail.com"
-    },
-    {
-      "id": 3,
-      "name": "neha",
-      "age": 20,
-      "email": "neha@gmail.com"
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
     }
   ]
 }
