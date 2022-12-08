@@ -1486,5 +1486,29 @@
       "tag": "Hello",
       "id": 4
     }
-  ]
+  ],
+  "registerUsers": [
+    {
+      "username": "naresh",
+      "email": "naresh@gmail.com",
+      "password": "1234",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGInoSocySBIg/profile-displayphoto-shrink_100_100/0/1646467268654?e=1675900800&v=beta&t=68ELvqBEF_I5QOhdCCSsj_z1jXmipuuTZjTk_lJHO9w",
+      "id": 1
+    },
+    {
+      "username": "vinod",
+      "email": "vinod@gmail.com",
+      "password": "4321",
+      "image": "https://media-exp1.licdn.com/dms/image/C5603AQEOTHKJ8tyOzg/profile-displayphoto-shrink_100_100/0/1626167506749?e=1675900800&v=beta&t=EoTxNhXxZ1IZ97pynstqx0E2AcYd61GrSPfstdJyiOw",
+      "id": 2
+    },
+    {
+      "username": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "12345",
+      "image": "https://media-exp1.licdn.com/dms/image/C5603AQE7EHSVgFSi3g/profile-displayphoto-shrink_100_100/0/1637986336884?e=1675900800&v=beta&t=PmIy-Zc7k42l4suFqOIKJ8ez-96QrP9xhdlPZGJFb7w",
+      "id": 3
+    }
+  ],
+  "users": []
 }
