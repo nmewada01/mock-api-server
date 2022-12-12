@@ -1487,29 +1487,28 @@
       "id": 4
     }
   ],
+  "posts": [
+    {
+      "username": "Varun",
+      "tweet": "Laughin own",
+      "gif": "https://media2.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif?cid=e9ac2e6ckzd0wcliymhttdv4y1ofbn19s4m3uc9dz9vh5ft3&rid=giphy.gif&ct=g",
+      "id": 2
+    },
+    {
+      "username": "naresh",
+      "tweet": "Hey! I am Vinod",
+      "gif": "https://media1.giphy.com/media/13t8GVV8ADEZk4/giphy.gif?cid=e9ac2e6cxwjqxrvvfdroxtmhabrlz3r82z636o02kvdepepa&rid=giphy.gif&ct=g",
+      "id": 4
+    }
+  ],
   "registerUsers": [
     {
       "username": "naresh",
       "email": "naresh@gmail.com",
-      "password": "1234",
-      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGInoSocySBIg/profile-displayphoto-shrink_100_100/0/1646467268654?e=1675900800&v=beta&t=68ELvqBEF_I5QOhdCCSsj_z1jXmipuuTZjTk_lJHO9w",
+      "password": "naresh",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGInoSocySBIg/profile-displayphoto-shrink_100_100/0/1646467268654?e=1676505600&v=beta&t=lSsjVt6RNzo0Vp-rckds97mREDBTig3PPmvUjZLeIgs",
       "id": 1
-    },
-    {
-      "username": "vinod",
-      "email": "vinod@gmail.com",
-      "password": "4321",
-      "image": "https://media-exp1.licdn.com/dms/image/C5603AQEOTHKJ8tyOzg/profile-displayphoto-shrink_100_100/0/1626167506749?e=1675900800&v=beta&t=EoTxNhXxZ1IZ97pynstqx0E2AcYd61GrSPfstdJyiOw",
-      "id": 2
-    },
-    {
-      "username": "rohit",
-      "email": "rohit@gmail.com",
-      "password": "12345",
-      "image": "https://media-exp1.licdn.com/dms/image/C5603AQE7EHSVgFSi3g/profile-displayphoto-shrink_100_100/0/1637986336884?e=1675900800&v=beta&t=PmIy-Zc7k42l4suFqOIKJ8ez-96QrP9xhdlPZGJFb7w",
-      "id": 3
     }
   ],
-  "users": [],
-  "post":[]
+  "loginProfile": []
 }
