@@ -1510,5 +1510,71 @@
       "id": 1
     }
   ],
-  "loginProfile": []
+  "loginProfile": [],
+  "addUsers": [
+    {
+      "fname": "Naresh",
+      "age": "24",
+      "gender": "male",
+      "country": "India",
+      "prof": "Student",
+      "id": 1
+    },
+    {
+      "fname": "Vinod",
+      "age": "25",
+      "gender": "male",
+      "country": "America",
+      "prof": "Student",
+      "id": 2
+    },
+    {
+      "fname": "Ranu",
+      "age": "22",
+      "gender": "female",
+      "country": "Pakistan",
+      "prof": "Employed",
+      "id": 3
+    },
+    {
+      "fname": "Rohit",
+      "age": "22",
+      "gender": "male",
+      "country": "Russia",
+      "prof": "Employed",
+      "id": 4
+    },
+    {
+      "fname": "Vishal",
+      "age": "21",
+      "gender": "male",
+      "country": "China",
+      "prof": "Student",
+      "id": 5
+    },
+    {
+      "fname": "Safal",
+      "age": "19",
+      "gender": "male",
+      "country": "India",
+      "prof": "Student",
+      "id": 6
+    },
+    {
+      "fname": "Sakshi",
+      "age": "19",
+      "gender": "female",
+      "country": "India",
+      "prof": "Student",
+      "id": 7
+    },
+    {
+      "fname": "Mayra",
+      "age": "10",
+      "gender": "female",
+      "country": "India",
+      "prof": "Student",
+      "id": 8
+    }
+  ]
 }
