@@ -1576,5 +1576,127 @@
       "prof": "Student",
       "id": 8
     }
+  ],
+  "jobPosts": [
+    {
+      "company": "Ellette",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "postedAt": "2022-12-20",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Javascript",
+      "id": 1
+    },
+    {
+      "company": "Nike",
+      "city": "London",
+      "location": "London",
+      "postedAt": "2023-01-31",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "Part Time",
+      "position": "Junior Frontend Developer",
+      "language": "CSS",
+      "id": 2
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "CSS",
+      "id": 3
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "id": 4
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Html",
+      "id": 5
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "id": 6
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Html",
+      "id": 7
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Html",
+      "id": 8
+    },
+    {
+      "company": "Paytm",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "id": 9
+    },
+    {
+      "company": "mayntra",
+      "city": "bangluru",
+      "location": "karnataka",
+      "postedAt": "2023-10-31",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "id": 10
+    }
   ]
 }
